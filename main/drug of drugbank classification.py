@@ -14,6 +14,7 @@ for drug in root.iterfind("drug"):
 small_molecule_dti = []
 biotech_dti = []
 import pandas as pd
+#drugbank-drug-target.txt是从drugbank提取的药物靶点对，即drug-target.py的运行结果
 dti = pd.read_csv("D:\zhuomian\知识图谱文档\CNN-LSTM\input\dti\drugbank\drugbank-drug-target.txt",delimiter='\t',names=["drug","target"],encoding='utf-8')
 
 for i in range(len(dti)):
