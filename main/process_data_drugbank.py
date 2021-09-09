@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-"""
-@author:TenYun
-@time: 2020/1/29
-@contact: tenyun.zhang.cs@gmail.com
-"""
 # drugbank.txt: drugbank_id, name, state, description
 # drugbank2.txt: drugbank_id1, drugbank_id2, drugbank_id2_name, interaction
 # drugbank_d2d.txt: drugbank_id1, drugbank_id2
