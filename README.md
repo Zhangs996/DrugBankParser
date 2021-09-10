@@ -1,6 +1,6 @@
 # parseDrugBank
 # Download Drugbank.xml
-Use python to parse the Drugbank.xml file, including drug-target interaction, drug-drug interaction, drug classification, drug description, etc.用python解析Drugbank.xml文件,包括Y药靶相互作用，药物药物相互作用，药物分类，药物描述等。
+Use python to parse the Drugbank.xml file, including drug-target interaction, drug-drug interaction, drug classification, drug description, etc.用python解析Drugbank.xml文件,包括药靶相互作用，药物药物相互作用，药物分类，药物描述等。
 DrugBank5.1.7_link：https://pan.baidu.com/s/10s5SBCNI0JmwSuT7fw0E8w password：zjb6               
 If you want to use DrugBank freely, please go to the official website to register an account, and then send an email to the official website to indicate your purpose and be sincere
 # Download UltraEdit
