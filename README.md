@@ -4,7 +4,7 @@ Use python to parse the Drugbank.xml file, including drug-target interaction, dr
 DrugBank5.1.7_link：https://pan.baidu.com/s/10s5SBCNI0JmwSuT7fw0E8w password：zjb6               
 If you want to use DrugBank freely, please go to the official website to register an account, and then send an email to the official website to indicate your purpose and be sincere
 # Download UltraEdit
-After downloading, it is an xml file. It is recommended to use "UltraEdit" to edit large files. If you are just search, just open it with pycharm.下载后是一个xml文件，推荐用UltraEdit编辑大文件，如果只是查找的话，用pycharm打开就行了。国内的在某宝花点钱买一个，就几块钱。
+After downloading, it is an xml file. It is recommended to use "UltraEdit" to edit large files. If you are just search, just open it with pycharm.下载后是一个xml文件，推荐用UltraEdit编辑大文件，如果只是查找的话，用pycharm打开就行了。
 ultraEdit_link：https://pan.baidu.com/s/1OY24V5YqN7mMHMIvXgt31A password:b95a 
 # D-DB.txt,DB-D.json
 KEGG Drug id-DrugBank drug id
