@@ -3,7 +3,7 @@
 Use python to parse the Drugbank.xml file, including drug-target interaction, drug-drug interaction, drug classification, drug description, etc.用python解析Drugbank.xml文件,包括药靶相互作用，药物药物相互作用，药物分类，药物描述等。
 DrugBank5.1.8_link：https://pan.baidu.com/s/1Sodlz9VBRlAV9coredMlJA password：5wug               
 If you want to use DrugBank freely, please go to the official website to register an account, and then send an email to the official website to indicate your purpose and be sincere.Replace the first three lines of full database.xml with the first three lines of test50.xml
-#Replace the first three lines of full database.xml with the first three lines of test50.xml
+# Replace the first three lines of full database.xml with the first three lines of test50.xml
 # Download UltraEdit
 After downloading, it is an xml file. It is recommended to use "UltraEdit" to edit large files. If you are just search, just open it with pycharm.下载后是一个xml文件，推荐用UltraEdit编辑大文件，如果只是查找的话，用pycharm打开就行了。
 ultraEdit_link：https://pan.baidu.com/s/1OY24V5YqN7mMHMIvXgt31A password:b95a 
