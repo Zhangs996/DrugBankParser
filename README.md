@@ -6,6 +6,8 @@ If you want to use DrugBank freely, please go to the official website to registe
 <?xml version="1.0" encoding="UTF-8"?>
 <drugbank  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="" version="5.1" exported-on="2020-07-02">
 <drug type="biotech" created="2005-06-13" updated="2020-06-12">
+  
+##
 # Download UltraEdit
 After downloading, it is an xml file. It is recommended to use "UltraEdit" to edit large files. If you are just search, just open it with pycharm.下载后是一个xml文件，推荐用UltraEdit编辑大文件，如果只是查找的话，用pycharm打开就行了。
 ultraEdit_link：https://pan.baidu.com/s/1OY24V5YqN7mMHMIvXgt31A password:b95a 
