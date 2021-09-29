@@ -3,8 +3,7 @@
 Use python to parse the Drugbank.xml file, including drug-target interaction, drug-drug interaction, drug classification, drug description, etc.用python解析Drugbank.xml文件,包括药靶相互作用，药物药物相互作用，药物分类，药物描述等。
 DrugBank5.1.8_link：https://pan.baidu.com/s/1Sodlz9VBRlAV9coredMlJA password：5wug               
 If you want to use DrugBank freely, please go to the official website to register an account, and then send an email to the official website to indicate your purpose and be sincere.Replace the first three lines with: 
-" 
-<?xml version="1.0" encoding="UTF-8"?>
+" <?xml version="1.0" encoding="UTF-8"?>
 <drugbank  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="" version="5.1" exported-on="2020-07-02">
 <drug type="biotech" created="2005-06-13" updated="2020-06-12">
 "
